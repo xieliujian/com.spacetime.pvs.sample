@@ -1,0 +1,9 @@
+[submodule "Packages/com.spacetime.core"]
+	path = Packages/com.spacetime.core
+	url = git@github.com:xieliujian/com.spacetime.core.git
+[submodule "Packages/com.spacetime.pvs"]
+	path = Packages/com.spacetime.pvs
+	url = git@github.com:xieliujian/com.spacetime.pvs.git
+[submodule "Packages/com.spacetime.pvswrap"]
+	path = Packages/com.spacetime.pvswrap
+	url = git@github.com:xieliujian/com.spacetime.pvswrap.git
